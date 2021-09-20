@@ -1,0 +1,14 @@
+.uno,
+.dos {
+  font-family: Helvitca, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.uno {
+  background-color: #000;
+  color: #fff;
+}
+
+.dos {
+  background-color: #fcba03;
+}
